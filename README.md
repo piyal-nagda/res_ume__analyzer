@@ -23,4 +23,7 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
 
    `streamlit run main.py`
 
+   https://ai-resume-analyzer-ckqz9xcpat4qv7rdwehnuu.streamlit.app/
+   
+
 
